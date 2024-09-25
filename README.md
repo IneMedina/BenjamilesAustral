@@ -6,9 +6,9 @@ I'm Miles Rouillon, Benjamin a Data Science student from  🧉**Rosario, Argenti
 
 - 🎓 I’m currently studying at the [Austral University](https://www.austral.edu.ar/)
 
-- 👯 I’m looking to collaborate on future projects
-- 🤔 I’m looking for help with R studio
-- 💬 Ask me about Soccer, IA, help 
+- 👯 I’m looking to collaborate on future projects.
+- 🤔 I’m looking for help with R studio.
+- 💬 Ask me about Soccer, IA, help. 
 - 📫 How to reach me: bmiles@mail.austral.edu.ar
 
 
